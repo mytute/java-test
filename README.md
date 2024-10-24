@@ -17,7 +17,9 @@ Reference Types:
     * Arrays and Objects: Complex data structures or custom types.
 
 
+
 1. Declare and initialize an integer variable.
+
 
 **Description:** Integers are widely used to store whole numbers, such as counters or indexes.  
 **Where to use:** Use int when memory overhead isn’t a concern and when working with whole numbers.  
@@ -32,7 +34,9 @@ public class Main {
 }
 ```
 
+
 2. Understanding Primitive Data Types    
+
 
 **Primitive** - for storing simple values.   
 **Reference** - for storing complex objects.  
@@ -81,7 +85,9 @@ public class DataTypesDemo {
 }
 ```
 
+
 3. Understanding Java Reference Data Types.    
+
 
 **description**   
 In Java, reference data types store references (addresses) to the actual objects in memory. Common reference data types include arrays, strings, and custom objects like instances of classes. Unlike primitive data types (e.g., int or double), these do not store the actual data directly.
@@ -148,7 +154,9 @@ public class ReferenceDataTypeExample {
 }
 ```
 
+
 4. Another variable type in Class.   
+
 
 **description**   
     * Instance Variables (class-level variables)  
@@ -206,7 +214,9 @@ public class VariableExample {
 }
 ```
 
+
 5. Java Type Casting    
+
 
 **Overview**
     * Perform implicit (widening) and explicit (narrowing) type conversions.
