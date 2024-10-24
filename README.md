@@ -19,9 +19,9 @@ Reference Types:
 
 1. Declare and initialize an integer variable.
 
-**Description:** Integers are widely used to store whole numbers, such as counters or indexes.
-**Where to use:** Use int when memory overhead isn’t a concern and when working with whole numbers.
-**To Do:** Declare an int variable to store the value 42 and print it.
+**Description:** Integers are widely used to store whole numbers, such as counters or indexes.  
+**Where to use:** Use int when memory overhead isn’t a concern and when working with whole numbers.  
+**To Do:** Declare an int variable to store the value 42 and print it.  
 
 ```java
 public class Main {
@@ -34,12 +34,12 @@ public class Main {
 
 2. Understanding Primitive Data Types    
 
-**Primitive** - for storing simple values. 
-**Reference** - for storing complex objects.
+**Primitive** - for storing simple values.   
+**Reference** - for storing complex objects.  
 
-**Description**: Java’s primitive data types are the building blocks of data manipulation. There are eight primitive data types: ==int==, ==double==, ==boolean==, ==char==, ==byte==, ==short==, ==long==, and ==float==.
-**Where to use:** Use them to store simple values directly in memory, which makes them highly efficient.
-**To Do:** Create a variable for each of these types and print their values.
+**Description**: Java’s primitive data types are the building blocks of data manipulation. There are eight primitive data types: ==int==, ==double==, ==boolean==, ==char==, ==byte==, ==short==, ==long==, and ==float==.  
+**Where to use:** Use them to store simple values directly in memory, which makes them highly efficient.  
+**To Do:** Create a variable for each of these types and print their values.  
 
 ```java
 public class DataTypesDemo {
