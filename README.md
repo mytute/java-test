@@ -111,8 +111,6 @@ public class ForEachExample {
 ```
 
 6. nested **for** loop.   
-
-
 **TODO**  
   1. create a multiplication table (1 to 5) using a nested **for** loop.       
 
@@ -139,8 +137,6 @@ output :
 ```
 
 7. infinite **for** loop.   
-
-
 **TODO**  
   1. craete an infinite loop that prints "Running..." continuously.    
 
@@ -155,7 +151,7 @@ public class InfiniteLoop {
 ```
 
 8. for loop with **break** and **continue** in for loop.   
-
+**TODO**  
   1. write a program to print numbers from 1 to 10, but skip the number 5 using ***continue** and stop to loop if the number is 8 using **break**.    
 
 ```java 
@@ -175,6 +171,7 @@ public class BreakContinueExample {
 ```
 
 9. Reverse **for** loop.   
+**TODO**  
   1. write a program to print numbers from 10 to 1 using a reverse **for** loop.    
 
 ```java 
@@ -188,6 +185,7 @@ public class ReverseForLoop {
 ```
 
 10. Loop multiple variables.   
+**TODO**  
   1. write a program using a **for** loop with multiple variables, printing the sum of two counters in each iteration.   
 
 ```java 
